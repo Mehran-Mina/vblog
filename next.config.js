@@ -15,4 +15,5 @@ module.exports = {
       { hostname: "images.unsplash.com" },
     ],
   },
+  
 };
